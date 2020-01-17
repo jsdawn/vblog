@@ -7,7 +7,7 @@ git pull
 
 git add -A
 
-git commit -m 'upd...'
+git commit -m 'upd commit by gitpush'
 
 git push
 
